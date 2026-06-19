@@ -26,9 +26,6 @@ env/
 .venv/
 .env/
 
-# PDFs (optional, remove if you want to commit them)
-*.pdf
-
 # OS
 .DS_Store
 Thumbs.db
