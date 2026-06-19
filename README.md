@@ -50,7 +50,7 @@ streamlit run app.py
 ```
 .
 ├── app.py               # Streamlit app
-├── main.ipynb           # Original notebook (experimentation)
+├── PDF_analyzer.ipynb           # Original notebook (experimentation)
 ├── requirements.txt
 ├── .env                 # Not committed
 └── README.md
